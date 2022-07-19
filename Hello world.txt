@@ -12,3 +12,14 @@ Consider the following items:
 - Bar
 - Baz
 
+Add another line of text.
+
+Refer to a past command. Check out the following notes section:
+
+https://github.com/mbigras/dev/blob/42a258d3455482b27f7b5529b99b3e9875424fcb/Hello%20world.txt#L7
+
+And then consider the following other details:
+
+- Hello
+- World
+- Again
