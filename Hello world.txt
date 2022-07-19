@@ -1,0 +1,14 @@
+Hello world!
+
+This is a text file.
+
+Consider the following command:
+
+echo hello world
+
+Consider the following items:
+
+- Foo
+- Bar
+- Baz
+
